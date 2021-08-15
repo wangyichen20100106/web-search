@@ -4,3 +4,6 @@
 
 我的世界官网:
 [http://www.minecraft.net](http://www.minecraft.net "我的世界官网")
+
+百度首页:
+[http://www.baidu.com](http://www.baidu.com "百度首页")
