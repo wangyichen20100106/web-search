@@ -11,4 +11,7 @@
 [http://www.baidu.com](http://www.baidu.com "百度首页")
 
 AcFun弹幕视频网:
-[https://www.acfun.cn](https://www.acfun.cn "AcFun弹幕视频网")
+[https://www.acfun.cn](http://www.acfun.cn "AcFun弹幕视频网")
+
+央视网:
+[https://www.cctv.com](http://www.cctv.com "央视网")
